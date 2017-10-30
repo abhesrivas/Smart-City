@@ -30,6 +30,6 @@ I used Eclipse for this projet, but you can use any other IDE of your choice.
 ## Acknowledgments
 
 * Anuradha Ravi, Assistant Professor, Dept. of Computer Science, Shiv Nadar Univerity
-* Taha Emara -Real time Face Detection using OpenCV with Java http://www.emaraic.com)
+* Taha Emara -Real time Face Detection using OpenCV with Java (http://www.emaraic.com)
 
 
