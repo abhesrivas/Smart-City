@@ -15,7 +15,7 @@ You are required to design your own classes, data members and methods for the be
 
 ## Getting Started
 
-I used Eclipse for this projet, but you can use any other IDE of your choice.
+I used Eclipse for this project, but you can use any other IDE of your choice.
 
 ## Dependencies
 
