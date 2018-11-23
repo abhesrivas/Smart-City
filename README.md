@@ -1,4 +1,4 @@
-# Java Mini Project
+# Smart City - A Mini Project in Java
 
 This project was made for the course CSD207 in the semester of Monsoon 2017.
 The question is as follows,
